@@ -99,6 +99,8 @@ In Dynamics 365 for Marketing, you have the following additional capabilities:
 
 ***Dynamics 365 Customer Service Insights*** provides a list of resources to help you [find customer data](https://docs.microsoft.com/dynamics365/ai/customer-service-insights/gdpr-discovery) in order to respond to GDPR requests from customers. 
 
+***Dynamics 365 Virtual Agent for Customer Service*** provides a list of resources to help you [find customer data](https://docs.microsoft.com/dynamics365/ai/customer-service-virtual-agent/gdpr-discovery) in order to respond to GDPR requests from customers.
+
 <span id="_Toc511225658" class="anchor"></span>***Dynamics 365 Finance and Operations*** provides several ways for you to search for customer data. You as a Tenant Admin can perform the following actions to search for customer data:
 
 -   Organize your customer data in a way that serves the purpose of rapidly discovering personal data, see [how to classify data inventory](https://docs.microsoft.com/dynamics365/unified-operations/dev-itpro/gdpr/gdpr-guide#detailed-inventory) for this purpose.
